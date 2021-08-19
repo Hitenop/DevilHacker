@@ -23,7 +23,7 @@ async def start(bot, update):
         if (file_id or file_type) == None:
             return
         
-        caption = ("<code>" + file_name + """</code>\n<b>All Movies Here 👇 @TheModdingGod</b>""")
+        caption = ("<code>" + file_name + """</code>\n<b>All Powered by ©️ @request_moviesorseries </b>""")
 
         if file_type == "document":
         
@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '⭕ JOIN MAIN GROUP ⭕', url="https://t.me/TheModdingGod"
+                                    '⭕ JOIN MAIN GROUP ⭕', url="https://t.me/request_moviesorseries"
                                 )
                         ]
                     ]
@@ -57,7 +57,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '⭕ JOIN MAIN GROUP ⭕', url="https://t.me/TheModdingGod"
+                                    '⭕ JOIN MAIN GROUP ⭕', url="https://t.me/request_moviesorseries"
                                 )
                         ]
                     ]
@@ -76,7 +76,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '⭕ JOIN MAIN GROUP ⭕', url="https://t.me/TheModdingGod"
+                                    '⭕ JOIN MAIN GROUP ⭕', url="https://t.me/request_moviesorseries"
                                 )
                         ]
                     ]
@@ -91,10 +91,10 @@ async def start(bot, update):
 # © shamilhabeebnelli
 
     buttons = [[
-        InlineKeyboardButton('😈Developer👿', url='https://t.me/DevilHackerRakesh'),
-        InlineKeyboardButton('😘Source Code', url ='https://github.com/rakeshyt/DevilHacker')
+        InlineKeyboardButton('creator📰', url='https://t.me/hiten_op),
+        InlineKeyboardButton('😘Developers, url ='https://t.me/request_moviesorseries')
     ],[
-        InlineKeyboardButton('💁 Support 💁', url='https://t.me/TheModdingGod')
+        InlineKeyboardButton('💁 Support 💁', url='https://t.me/request_moviesorseries)
     ],[
         InlineKeyboardButton('🇮🇳 Help 🇮🇳', callback_data="help")
     ]]
