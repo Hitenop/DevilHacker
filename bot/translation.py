@@ -10,7 +10,7 @@ class Translation(object):
 You can't Add me to your Group 🔥🔥😝
 
 For More Details Click Help Button Below..
-@TheModdingGod
+@request_moviesorseries ⚔ @hiten_op
 </i>"""    
     
     HELP_TEXT = """
@@ -49,5 +49,5 @@ For More Details Click Help Button Below..
 
 <b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
 
-<b>➥ Source Code</b> : <i><a href="https://t.me/request_moviesorseries">Click Me</a></i>
+<b>➥ My group</b> : <i><a href="https://t.me/request_moviesorseries">Requestprime</a></i>
 """
